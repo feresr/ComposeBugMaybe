@@ -1,0 +1,2 @@
+rootProject.name = "ComposeBug"
+include ':app'
